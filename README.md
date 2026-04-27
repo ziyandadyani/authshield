@@ -44,4 +44,4 @@ npm run dev
 - Password: Admin123!
 
 ## Notes
-This starter uses an in-memory store so data resets whenever the backend restarts. That makes it easier to demo locally. The next upgrade is replacing the store with MySQL or Supabase/Postgres.
+---
