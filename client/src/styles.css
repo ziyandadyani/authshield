@@ -141,6 +141,11 @@ td {
   min-height: 100vh;
 }
 
+.center {
+  display: grid;
+  place-items: center;
+}
+
 .stat-card p {
   font-size: 2rem;
   margin: 0.25rem 0 0;
