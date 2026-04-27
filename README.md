@@ -12,7 +12,7 @@ A security-first full-stack demo app showing:
 ## Stack
 - React + Vite + TypeScript
 - Node.js + Express + TypeScript
-- In-memory demo data store
+- Supabase data store
 
 ## Local setup
 
