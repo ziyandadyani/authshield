@@ -32,7 +32,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             )}
           </nav>
         </header>
-
       </div>
 
       <main className="page-container">{children}</main>
